@@ -1,2 +1,3 @@
 # cmayrhuber.github.io
-Github Pages root
+
+[Home Office via Citrix Workspace App on Raspian Buster](https://cmayrhuber.github.io/raspi-workspace)
